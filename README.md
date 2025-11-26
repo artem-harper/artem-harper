@@ -1,7 +1,6 @@
 <h1 >🐛 Hi there !</h1>
 
-
-## 🚀 About Me
+---
 
 - 💻 Backend developer specializing in **Java**
 
