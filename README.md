@@ -1,10 +1,12 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 >🐛 Hi there !</h1>
 
 
 ## 🚀 About Me
 
 - 💻 Backend developer specializing in **Java**
+
 - 🌱 Working with **Spring Boot**, **Docker**, **PostgreSQL**
+  
 - 🧩 Passionate about clean code, microservices, and architecture
 
 ---
@@ -18,7 +20,7 @@
 
 ### Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,maven,gradle,postgres,mysql,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,kafka,hibernate,maven,gradle,postgres,mysql,idea" />
 </p>
 
 
@@ -27,17 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=artem-harper&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-harper&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Contacts / Socials
-<p>
-  <a href="https://t.me/your_telegram">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artem-harper&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artem-harper&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artem-harper&theme=github_dark" alt=""/>
 </p>
 
 ---
